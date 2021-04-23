@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Prateek
+Build-Jdk: 15.0.1
+Implementation-Title: univers-web
+Implementation-Version: 1.3.6.RELEASE
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

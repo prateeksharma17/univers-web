@@ -1,0 +1,5 @@
+projectKey=univers
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/univers
+ceTaskId=AXji1P8T0oSrj3TpNmPw
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXji1P8T0oSrj3TpNmPw
