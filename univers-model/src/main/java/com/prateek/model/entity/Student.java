@@ -39,7 +39,7 @@ public class Student {
 	@Column(name="gender")
 	private String gender;
 	
-	@ManyToOne(fetch=FetchType.LAZY)
+	@ManyToOne(fetch=FetchType.EAGER)
 	@JoinColumn(name="university_id")
 	@NotNull(message="University must not be null!")
 	private University university;

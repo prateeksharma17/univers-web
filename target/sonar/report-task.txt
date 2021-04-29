@@ -1,5 +1,5 @@
 projectKey=com.prateek:univers
-serverUrl=http://31.220.58.70:9000
-dashboardUrl=http://31.220.58.70:9000/dashboard/index/com.prateek:univers
-ceTaskId=AXj_Bi5HMR9VtyCnaSHM
-ceTaskUrl=http://31.220.58.70:9000/api/ce/task?id=AXj_Bi5HMR9VtyCnaSHM
+serverUrl=http://104.251.211.4:9000
+dashboardUrl=http://104.251.211.4:9000/dashboard/index/com.prateek:univers
+ceTaskId=AXkci_jqVZuSn8zqDkuJ
+ceTaskUrl=http://104.251.211.4:9000/api/ce/task?id=AXkci_jqVZuSn8zqDkuJ
